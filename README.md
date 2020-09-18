@@ -1,16 +1,16 @@
 ### Hola amigos 👋
 
-<!--
-**silasjimmy/silasjimmy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Silas Jimmy a computer science student who loves😍️ coding💻️. 
 
-Here are some ideas to get you started:
+I'm currently working on small projects (Python dev & Front-end web design) while learning👨‍🎓️ game development using Unity3D🎮️.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A big fan of collaboration so if you need help you can hola me at:
+
+- 🖇️ [Linkedin](https://www.linkedin.com/in/silas-jimmy-2b7543150/)
+- 🐦️ [Twittwer](https://twitter.com/silasjimmy17)
+- 📞️ +254 719 773 594
+
+Oh, don't forget to check out my [portfolio](https://silasjimmy.github.io/) for more of my work👌️!
+
+> With great power comes great responsibility.
+				***Peter Parker***, *Spiderman* 
