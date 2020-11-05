@@ -2,9 +2,9 @@
 
 My name is Silas Jimmy a computer science student who loves😍️ coding💻️. 
 
-I'm currently working on small projects (Python dev & Front-end web design) while learning👨‍🎓️ game development using Unity3D🎮️.
+I'm currently working on small projects (Python programs) and data analysis on datasets for Machine Learning models.
 
-A big fan of collaboration so if you need help you can hola me at:
+A big fan of collaboration so if you need help you can hit me up at:
 
 - 🖇️ [Linkedin](https://www.linkedin.com/in/silas-jimmy-2b7543150/)
 - 🐦️ [Twittwer](https://twitter.com/silasjimmy17)
