@@ -20,7 +20,7 @@ I'm currently working on collaboration projects and learning data science.
 </code>](https://github.com/)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mikemathu&show_icons=true&theme=tokyonight&line_height=52" />
+  <img src="https://github-readme-stats.vercel.app/api?username=silasjimmy&show_icons=true&theme=tokyonight&line_height=52" />
   <img width="37.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silasjimmy&count_private=true&theme=tokyonight&line_height=52">
 </p>
 
