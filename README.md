@@ -1,30 +1,14 @@
-### Howdy there! <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
+## Hello!
 
-My name is Silas Jimmy, a computer science student and a developer.
+I am Silas, a **Computer Science graduate** and a passionate **Software developer**. My skills and expertise span across the entire software development process. I design and develop front-end web interfaces, design the back-end of the application and connect the two using APIs to communicate together. I also manage the infrastructure by designing unit and intergration tests to evaluate the performance so to ensure high availability of the application.
 
-I'm currently working on collaboration projects and learning data science.
-
-## Skills
-
-[<code>
-<img alt="html5" width="26px" src="https://img.icons8.com/color/240/000000/html-5.png">
-</code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[<code>
-<img alt="css3" width="26px" src="https://img.icons8.com/color/240/000000/css3.png">
-</code>](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<code>
-<img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
-</code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<code>
-<img alt="github" width="26px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png">
-</code>](https://github.com/)
+I love collaborating with others on projects that deal with web and mobile applications. Currently i am looking for a role as a **Software Engineer** in any business environment.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=silasjimmy&show_icons=true&theme=tokyonight&line_height=52" />
-  <img width="37.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silasjimmy&count_private=true&theme=tokyonight&line_height=52">
+  <img width="37.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silasjimmy&count_private=true&theme=tokyonight&line_height=52&langs_count=10">
 </p>
 
 Oh, don't forget to check out my [portfolio](https://silasjimmy.github.io/) for more of my work👌️!
 
-> With great power comes great responsibility.
-				***Peter Parker***, *Spiderman* 
+> The secret to happiness is freedom, and the secret to freedom is courage - **Carrie Jones**
