@@ -9,6 +9,6 @@ I love collaborating with others on projects that deal with web and mobile appli
   <img width="37.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silasjimmy&count_private=true&theme=tokyonight&line_height=52&langs_count=7">
 </p>
 
-Oh, don't forget to check out my [portfolio](https://silasjimmy.github.io/) for more of my work👌️!
+Visit my [portfolio](https://silasjimmy.github.io/) for more information.
 
 > The secret to happiness is freedom, and the secret to freedom is courage - **Carrie Jones**
